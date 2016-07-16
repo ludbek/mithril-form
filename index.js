@@ -7,10 +7,6 @@ var _ = {
   forEach: require('lodash/forEach.js')
 };
 
-function getValue() {
-
-}
-
 function prop(model, field, defaultValue) {
   var initialState = defaultValue || "";
   var previousState = "";
