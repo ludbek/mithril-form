@@ -1,7 +1,7 @@
 # DEPRECATED IN FAVOR OF [powerform](https://github.com/ludbek/powerform)
 
 # Introduction
-A form model for [Mithril.js](https://github.com/lhorie/mithril.js/). Used to be part of [mithril-ui](https://github.com/ludbek/mithril-ui).
+A form model for [Mithril.js](https://github.com/MithrilJS/mithril.js/). Used to be part of [mithril-ui](https://github.com/ludbek/mithril-ui).
 
 # Installation
 ## npm
